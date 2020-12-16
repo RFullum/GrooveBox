@@ -4,6 +4,7 @@ Pure Data Synth &amp; Sequencer sync'd via Ableton Link
 Pure Data patch designed to fit on my Raspberry Pi 3a+ w/7" Touchscreen.
 
 Videos of patch in action:
+
 https://youtu.be/Qm14gKKZAeA
 
 https://youtu.be/-91xlZS8tXk
