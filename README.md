@@ -1,5 +1,5 @@
 # GrooveBox
-Pure Data Synth &amp; Sequencer sync'd via Ableton Link
+##Pure Data Synth &amp; Sequencer sync'd via Ableton Link
 
 Pure Data patch designed to fit on my Raspberry Pi 3a+ w/7" Touchscreen.
 
