@@ -5,7 +5,9 @@ Pure Data patch designed to fit on my Raspberry Pi 3a+ w/7" Touchscreen.
 
 Videos of patch in action:
 https://youtu.be/Qm14gKKZAeA
+
 https://youtu.be/-91xlZS8tXk
+
 https://youtu.be/bX5pd7wVPfk
 
 Main Patch: 
