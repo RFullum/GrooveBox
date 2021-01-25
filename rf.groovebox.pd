@@ -1,2 +1,2 @@
-#N canvas 2 62 1019 632 10;
-#X obj 4 2 rf.grooveBoxInterface;
+#N canvas 0 51 1024 549 10;
+#X obj -84 -38 rf.grooveBoxInterface;
